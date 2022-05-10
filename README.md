@@ -1,4 +1,4 @@
-# AutoCHESS-Simulation - Project from January 2021
+# AutoCHESS-Simulation - Project from early 2021
 Simulation version of the AutoCHESS system
 
 # Description:
